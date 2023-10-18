@@ -79,16 +79,12 @@ I was developing **a widget for live chat** with the customer. On the widget bac
 
 ### **EDUCATION**
 
-  
 
-| School | Description |
+| School                                       | Description                                    |
+| ---------------------------------------------| ---------------------------------------------- |
+| **Selçuk University**<br />Computer Engineer | `🎓 Bachelor's Degree` `📅 2023–Present`      |
 
-| ---------------------------------------- | ---------------------------------------------- |
 
-| **Selçuk University**<br />  Computer Engineer  | `🎓 Bachelor's Degree`  `📅 2023–Present` |
-
-| Skills | Interests |
-
+| Skills                                                       | Interests                                                    |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-
-| English *(B1)*, Turkish *(Native)*, Self-taught, Prototyping,t Sketching, Gamification |  Philosophy, Artificial Intelligence, Cognitive Science, Games |
+| English *(B1)*, Turkish *(Native)*, Self-taught, Prototyping, Sketching, Gamification | Philosophy, Artificial Intelligence, Industrial Design, Cognitive Science, Games - |
