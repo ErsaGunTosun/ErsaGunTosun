@@ -14,9 +14,9 @@ You can read more about me on [my website](https://ersaguntosun.com/). 🤩
 
 ### 🌰 Me, In A Nutshell
 
-`Software Engineering`  `Embedded System`  `Product`  `Music`  
+`Software Engineering`  `Embedded System`  `Product`  
 
-- ENFJ • ♓ • 📚💸💿💻⌨️🎶🎨🎭🏛🗽🛸
+- 📚💸💿💻⌨️🎨🎭🏛🗽🛸
 
  
 🌐 **Website: [ersaguntosun.com](https://ersaguntosun.com/)**  <br>
