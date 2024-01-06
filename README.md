@@ -8,19 +8,19 @@
 
   
 
-You can read more about me on [my website](https://ersaguntosun.com/). 🤩
+You can read more about me on [my website](https://ersaguntosun.vercel.app/). 🤩
 
   
 
 ### 🌰 Me, In A Nutshell
 
-`Software Engineering`  `Embedded System`  `Product`  
+`Software Engineering`  `Product`  `COMPUTER`
 
-- 📚💸💿💻⌨️🎨🎭🏛🗽🛸
+- 📚💸💿💻⌨️🎨🏛🗽🛸
 
  
-🌐 **Website: [ersaguntosun.com](https://ersaguntosun.com/)**  <br>
-
+🌐 **Website: [ersaguntosun.vercel.app](https://ersaguntosun.vercel.app/)**  <br>
+    
 ✉️ **Email: [ersagun@ersaguntosun.com ](mailto:ersagun@ersaguntosun.com)**  <br>
 
 👥 **Social Media:**  **[Twitter](https://twitter.com/ErsaGunTosun)** ⦁ [**Instagram**](https://www.instagram.com/ersaguntosun/) ⦁ [**LinkedIn**](https://www.linkedin.com/in/fatihetosun/)  <br>
@@ -87,4 +87,4 @@ I was developing **a widget for live chat** with the customer. On the widget bac
 
 | Skills                                                       | Interests                                                    |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| English *(B1)*, Turkish *(Native)*, Self-taught, Prototyping, Sketching, Gamification | Philosophy, Artificial Intelligence, Industrial Design, Cognitive Science, Games - |
+| English *(A2)*, Turkish *(Native)*, Self-taught, Prototyping, Sketching, Gamification | Philosophy, Artificial Intelligence, Industrial Design, Cognitive Science, Games - |
