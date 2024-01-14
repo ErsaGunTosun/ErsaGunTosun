@@ -4,7 +4,7 @@
 
   
 
-**Fatih Ersagun Tosun**  <br>Developer ∗ Student
+**Fatih Ersagun Tosun**  <br>Developer ∗ Student ∗ Computer
 
   
 
@@ -14,9 +14,9 @@ You can read more about me on [my website](https://ersaguntosun.vercel.app/). �
 
 ### 🌰 Me, In A Nutshell
 
-`Software Engineering`  `Product`  `COMPUTER`
+`Software Engineering`  `Product` 
 
-- 📚💸💿💻⌨️🎨🏛🗽🛸
+- 📚💸💿💻⌨️🎨🛸
 
  
 🌐 **Website: [ersaguntosun.vercel.app](https://ersaguntosun.vercel.app/)**  <br>
@@ -47,20 +47,6 @@ You can read more about me on [my website](https://ersaguntosun.vercel.app/). �
 
 ### WORK EXPERIENCE
 
-  
-
-#### **Leviathan UAV Team**
-
-  
-
-`👨‍💻 Software Engineer`  `📅 Nov 2022 – May 2023`  `📍 Konya, TR`
-
-  
-I'm one of the people in charge of **image processing** in the software department of the Leviathan unmanned Aerial Vehicle Team.
-
-▸ **Technical Roles**  `Software Engineer`  `Python`  `OpenCV`   <br>
-
-▸ **Skills**  `Image Processing`  `Product`  `UAV Simulator`  <br>
 
 #### **Sola Store**
 
